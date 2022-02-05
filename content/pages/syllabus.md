@@ -45,8 +45,45 @@ Grading
 
 Grading is based an a 900 point scale, where the homework is worth 250 points, the four exams are worth a total of 400 points, and the Final Exam is worth 250 points.
 
-| activities | percentages |
-| --- | --- |
-| Problem Sets | 28% |
-| Four Exams | 44% |
-| Final Exam | 28%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+28%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four Exams
+{{< tdclose >}}
+{{< tdopen >}}
+44%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+28%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
