@@ -5,6 +5,7 @@ description: This file provides solutions to problems on vector fields and line 
   potential functions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-02-multivariable-calculus-spring-2006/ddb929ff2ee9cdcb0206dfab50a00bb7_ps8_sol.pdf
 file_type: application/pdf
+parent_uid: 99ca73d7-5be7-449d-b0a2-2b7311257be4
 resourcetype: Document
 title: ps8_sol.pdf
 uid: ddb929ff-2ee9-cdcb-0206-dfab50a00bb7

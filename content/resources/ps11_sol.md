@@ -5,6 +5,7 @@ description: This file provides solutions for four problems on divergence (= Gau
   and potentials.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-02-multivariable-calculus-spring-2006/0157b14b3dea990515f6344f3ce32665_ps11_sol.pdf
 file_type: application/pdf
+parent_uid: 99ca73d7-5be7-449d-b0a2-2b7311257be4
 resourcetype: Document
 title: ps11_sol.pdf
 uid: 0157b14b-3dea-9905-15f6-344f3ce32665

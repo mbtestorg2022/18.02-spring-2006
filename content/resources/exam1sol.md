@@ -6,6 +6,7 @@ description: This file provides solutions to problems on vectors in 2- and 3-spa
   Kepler's second law.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-02-multivariable-calculus-spring-2006/a665789eb74b694a07341f0c15eb9c21_exam1sol.pdf
 file_type: application/pdf
+parent_uid: c3ca0d84-59c0-d8e0-0dff-196e231a668b
 resourcetype: Document
 title: exam1sol.pdf
 uid: a665789e-b74b-694a-0734-1f0c15eb9c21
