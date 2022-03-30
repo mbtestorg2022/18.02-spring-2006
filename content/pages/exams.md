@@ -22,7 +22,7 @@ solutions
 Practice Exam 1A ([PDF]({{< baseurl >}}/resources/prac1a))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prac1asol))
+([PDF]({{< baseurl >}}/resources/prac1asol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +37,7 @@ Practice Exam 1B ([PDF]({{< baseurl >}}/resources/prac1b))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1))
+Exam 1 ([PDF]({{< baseurl >}}/resources/exam1))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -55,7 +55,7 @@ Practice Exam 2A ([PDF]({{< baseurl >}}/resources/prac2a))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Practice Exam 2B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prac2b))
+Practice Exam 2B ([PDF]({{< baseurl >}}/resources/prac2b))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/prac2bsol))
@@ -64,7 +64,7 @@ Practice Exam 2B (![This resource may not render correctly in a screen reader.](
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam2))
+Exam 2 ([PDF]({{< baseurl >}}/resources/exam2))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -91,7 +91,7 @@ Practice Exam 3B ([PDF]({{< baseurl >}}/resources/prac3b))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam3))
+Exam 3 ([PDF]({{< baseurl >}}/resources/exam3))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -109,7 +109,7 @@ Practice Exam 4A ([PDF]({{< baseurl >}}/resources/prac4a))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Practice Exam 4B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/prac4b))
+Practice Exam 4B ([PDF]({{< baseurl >}}/resources/prac4b))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/prac4bsol))
@@ -118,7 +118,7 @@ Practice Exam 4B (![This resource may not render correctly in a screen reader.](
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exam 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam4))
+Exam 4 ([PDF]({{< baseurl >}}/resources/exam4))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -136,10 +136,10 @@ Practice Final Exam A ([PDF]({{< baseurl >}}/resources/pracfinala))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Practice Final Exam B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pracfinalb))
+Practice Final Exam B ([PDF]({{< baseurl >}}/resources/pracfinalb))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pracfinalbsol))
+([PDF]({{< baseurl >}}/resources/pracfinalbsol))
 {{< tdclose >}}
 
 {{< trclose >}}
